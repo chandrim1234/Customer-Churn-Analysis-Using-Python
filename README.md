@@ -45,6 +45,6 @@ The objective of this project is to analyze customer churn data, identify key fa
 - **Development Environment:** Jupyter Notebook 
 
 ## **Expected Outcome**  
-✅ **Visual insights** into customer churn patterns  
-✅ **Correlation between features and churn behavior**  
-✅ **Actionable recommendations** to reduce churn
+**Visual insights** into customer churn patterns  
+**Correlation between features and churn behavior**  
+**Actionable recommendations** to reduce churn
