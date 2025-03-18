@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36e20066-1248-4f2d-b205-a5c0796c47aa)
+![image](https://github.com/user-attachments/assets/8dab607e-1cf4-4f1a-a51b-3e7950c3c2cc)
 
 
 # **Customer Churn Analysis Using Python**  
